@@ -1,16 +1,38 @@
-# Argus Clew
+<img src="assets/argus-clew-logo.png" alt="Argus Clew Logo" width="200">
 
-**Agent Readiness Prompts for AWS**
+# Argus Clew 
+
+**AI Agent Readiness Prompt Family for AWS**
 
 ---
 
-## Why Argus?
+## The Story
 
-In Greek mythology, Argus Panoptes was the hundred-eyed giant who never slept. He was the ultimate watchman, seeing everything at once.
+Argus Clew began with a simple observation: the modern web no longer has one audience. It has two.
 
-Argus Clew carries that idea into software. It watches your codebase for structural issues that humans overlook but machines can't ignore. "Clew" is the thread that guides you through the problem, part of a growing suite of developer tools (Hermes Clew, Argus Clew, and others) that help developers see what they can't easily see themselves.
+People are still the primary audience, but websites are increasingly being read, interpreted, navigated, and acted on by AI agents. A website can look polished, intuitive, and complete to a human user while still be structurally difficult for an AI agent to understand. That gap is easy to miss because the site still appears to work.
+
+Argus Clew exists to surface that gap.
+
+This repository contains a family of three prompts built around that idea. They are designed for different moments in the web lifecycle, but they all share the same goal: making AI agent readiness more visible, measurable, and actionable.
+
+---
+
+## Why the Name
+
+In Greek mythology, **Argus Panoptes** was the hundred-eyed giant who never slept. He was the ultimate watchman, seeing what others missed.
+
+**Clew** means a thread or guide through complexity, the thing that helps you find your way through a maze.
+
+Together, **Argus Clew** represents a watchful guide for a web that now has a second audience.
 
 Hermes Clew scans. Argus Clew watches.
+
+Scanning methodology in this project is inspired by the Hermes Clew Agent Readiness Framework:
+
+https://github.com/earlgreyhot1701D/hermes-clew
+
+---
 
 ## The Problem
 
