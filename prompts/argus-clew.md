@@ -873,6 +873,9 @@ Actual cost depends on:
 4. Artifact size
 5. Notification volume
 
+###Expected Output: 
+Provide the solution as a single comprehensive document organized by: Solution Summary → Architecture → Infrastructure → Scanner Design → ... → Appendices. Make code blocks copy-paste ready. Include all IAM policies as reviewable starting points.
+
 ---
 
 ## Credits and Licensing
